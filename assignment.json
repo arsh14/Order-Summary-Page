@@ -1,0 +1,41 @@
+{
+  "order_id": "123QWE",
+  "restaurant": {
+    "name": "Burgers & Pizzas",
+    "street": "987 Dhoni Colony",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "zipcode": "560106"
+  },
+  "items": [
+    {
+      "name": "Veg Cheese Burger",
+      "category": "Burgers",
+      "price": 150,
+      "currency": "INR",
+      "tax": 0.025,
+      "quantity": 2
+    },
+    {
+      "name": "Chicken Burger",
+      "category": "Burgers",
+      "price": 250,
+      "currency": "INR",
+      "tax": 0.025,
+      "quantity": 1
+    },
+    {
+      "name": "Paneer Tikka Pizza",
+      "category": "Veg Pizzas",
+      "price": 320,
+      "currency": "INR",
+      "tax": 0.025,
+      "quantity": 1
+    }
+  ],
+  "user": {
+    "name": "Kumba",
+    "id": "0987658"
+  },
+  "createdAt": "2019-06-17T18:12:15.870Z"
+}

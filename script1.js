@@ -4,7 +4,7 @@ var temp=0 ,k=0;
 function addMore(){};
 var da="",t="";
 $.ajax({
-        url: "https://indapi.kumba.io/webdev/assignment",
+        url: "assignment.json",//on local host "https://indapi.kumba.io/webdev/assignment"
         type: 'GET',
         dataType: 'json', // added data type
         success: function(res) {
